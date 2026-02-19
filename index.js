@@ -1,0 +1,1 @@
+console.log('welcome to practice session 2');
