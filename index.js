@@ -1,1 +1,4 @@
-console.log('welcome to practice session 2');
+console.log("wecome topractice session 2");
+for (var i=0;i<=5;i++){
+    console.log("vadaki");
+}
